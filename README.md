@@ -208,4 +208,4 @@ Zhu3D is offered as a full free version with all features and updates included, 
 Unleash the power of visualization with Zhu3D. **Download now to start your journey into the world of mathematical functions!**
 
 ---
-**Last updated:** 2026-10-03 17:09:25 UTC
+**Last updated:** 2026-10-03 20:31:23 UTC
